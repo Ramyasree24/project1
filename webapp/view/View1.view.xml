@@ -9,6 +9,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<Button text="Hello"/>
+					<Input value="New Changes"/>
 				</Page>
 			</pages>
 		</App>
